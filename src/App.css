@@ -1,0 +1,19 @@
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-size:100px;
+    border-radius: 10px;
+    box-shadow: 10px rgb(100, 100, 100);
+    border: 1px solid black;
+}
+
+.Data{
+    padding: 16px;
+    font-size:100px;
+    border-radius: 10px ;
+    box-shadow: 10px 10px 10px  rgb(100, 100, 100);
+    /* border: 10px solid black; */
+    color: rgb(68, 86, 86);
+}
